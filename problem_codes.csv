@@ -1,0 +1,32 @@
+Issue,Ordering,Problem Code,Description
+Housing,1,66 - Housing Discrimination,All issues regarding housing discrimination or unfair practices on the basis of individual identity
+Housing,2,67 - Mortgage Foreclosures,All issues regarding foreclosures or the process of foreclosure
+Housing,3,68 - Mortgage/Predatory Lending Practices,
+Housing,4,62 - Homeownership/Real Property,"All issues regarding homeownership that do not fall under the housing discrimination, foreclosures, or predatory lending/practices sections. "
+Housing,5,65 - Mobile Homes,"All issues regarding transportable, mobile housing units"
+Housing,6,64 - Public Housing,All issues regarding housing units owned and operated by public housing authorities. 
+Housing,7,61 - Federally Subsidized Housing,"All issues regarding the federal government is providing aid for housing except public housing. This includes Section 8 housing, Section 202 housing for the elderly, section 811 housing for disabled individuals, low-income housing tax credits, USDA rural development housing support, HUD-VASH housing for veteral support."
+Housing,8,63 - Private Landlord/Tenant,All issues regarding rented housing and landlord-tenant relationships that do not have to do with housing discrimination issues
+Housing,9,69 - Other Housing,All issues regarding problems that do not fall under other problem codes
+Consumer Finance,1,04 - Collection Practices/Creditor Harassment,"All issues regarding collection practices, situations where the user is being harassed by collectors for money"
+Consumer Finance,2,05 - Predatory Lending Practices (Not Mortgages),Any predatory lending practices that are not mortgages
+Consumer Finance,3,06 - Loans/Installment Purchase (Not Collections),All issues regarding loans or installment purchases besides collection
+Consumer Finance,4,01 - Bankruptcy/Debtor Relief,The user is a borrower and is looking for help regarding debt and declaring bankruptcy 
+Consumer Finance,5,02 - Collection (Including Repossession/Deficiency/Garnishment),"The user is a creditor, collection agency, or lender and are trying to recover money and/or property"
+Consumer Finance,6,03 - Contracts/Warranties,All issues regarding contracts and warranty issues
+Consumer Finance,7,08 - Unfair and Deceptive Sales and Practices (Not Real Property),All issues regarding unfair or deceptive sales practices outside of real property
+Consumer Finance,8,07 - Public Utilities,All issues regarding public utilities
+Consumer Finance,9,09 - Other Consumer/Finance,All issues regarding problems that do not fall under other codes
+Education,1,16—Student Financial Aid,All issues regarding financial aid in schools
+Education,2,12—Discipline (Including Expulsion and Suspension),All issues regarding student discipline
+Education,3,13—Special Education/Learning Disabilities,All issues regarding special education in schools
+Education,4,"14—Access (Including Bilingual, Residency, Testing)","All accessibility issues in schools including linguistics, residency, and testing accomodations"
+Education,5,15—Vocational Education,All issues regarding vocational education
+Education,6,19—Other Education,All issues regarding problems that do not fall under other codes
+Employment,1,21—Employment Discrimination,All issues of employment discrimination
+Employment,2,22—Wage Claims and other FLSA (Fair Labor Standards Act) Issues,All Wage Claims and other FLSA (Fair Labor Standards Act) Issues
+Employment,3,23—EITC (Earned Income Tax Credit),All issues regarding EITC eligibility and payments
+Employment,4,24—Taxes (Not EITC),All tax issues that are not related to the EITC
+Employment,5,25—Employee Rights,All employee rights issues that are not covered by other codes
+Employment,6,26—Agricultural Worker Issues (Not Wage Claims/FLSA Issues),All agricultural issues that are not Wage Claims/FLSA Issues
+Employment,7,29—Other Employment,All employment issues that are not covered by the other codes
