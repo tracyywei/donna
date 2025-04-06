@@ -42,16 +42,15 @@ def produce_intake(classification: str) -> str:
 def produce_resources(classification: str) -> str:
     return classification
 
-with open("instructions.txt", "r") as file:
-    instructions = file.read()
+with open("initial_instructions.txt", "r") as file:
+    initial_instructions = file.read()
 
 agent = Agent(
-    name="Assistant",
+    name="Classify-Problem Agent",
     instructions=prompt_with_handoff_instructions(
-        instructions,
+        initial_instructions,
     ),
     model="gpt-4o",
-    tools=[parse_response],
 )
 
 
